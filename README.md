@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KenedyTourangbam
+- 👀 I’m interested in developing website & softwares... 
+- 🌱 I’m currently learning new programming languages, full fledge web developing, ethical hacking with kali linux...
+- 📫 One can reach me kenedy.dhojobi@gmail.com...
+
+<!---
+KenedyTourangbam/KenedyTourangbam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
